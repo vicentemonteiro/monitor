@@ -1,4 +1,4 @@
-# Monitor de Mensagens
+# Monitoramento de Hashtags (clipping) do Twitter.
 
 ## Execução Local
 1. Faça download do projeto para seu ambiente de desenvolvimento utilizando GIT no seguinte endereço: https://github.com/vicentemonteiro/monitor
